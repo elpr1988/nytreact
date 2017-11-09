@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  padding-left: 60px;
+}
+.App-header {
+  height: 150px;
+  padding: 20px;
+}
+
+.App-title {
+  text-align: center;
+  font-family: serif;
+  font-size: 4em;
+}
+
+

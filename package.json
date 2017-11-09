@@ -1,0 +1,17 @@
+{
+  "name": "nytreact",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "react-scripts start"  
+  },
+  "author": "Elizabeth Prieto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.1"
+
+  }
+}
